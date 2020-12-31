@@ -1,0 +1,12 @@
+pandas
+watermark
+transformers
+seaborn
+matplotlib
+sklearn
+keras-metrics
+textblob
+nltk
+gensim
+tqdm
+wordcloud
