@@ -45,4 +45,4 @@ Before running it, make sure to install dependencies, by running in terminal :
 pip install -r requirements.txt
 ```
 
-On Google colab, you would need to import the `requirements.txt` file, and the `tweets.csv` dataset to your colab session.
+On Google colab, you would need to import the `requirements.txt` file, and the `tweets.csv` dataset available on kaggle to your colab session.
